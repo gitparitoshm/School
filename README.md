@@ -1,2 +1,2 @@
-# schoolManagement
+# School
 for school management
